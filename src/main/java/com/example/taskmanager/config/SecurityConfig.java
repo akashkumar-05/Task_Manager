@@ -93,8 +93,8 @@ public class SecurityConfig {
         return new WebMvcConfigurer() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-                registry.addMapping("/**") // or "/api/**"
-                        .allowedOrigins("http://localhost:63342") // ✅ your frontend port
+                registry.addMapping("/**")
+                        .allowedOrigins("*")
                         .allowedMethods("*")
                         .allowedHeaders("*");
 
