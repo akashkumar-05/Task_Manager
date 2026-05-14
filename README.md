@@ -204,6 +204,16 @@ Some features planned for future versions:
 
 ---
 
+# Screenshots
+
+| Index Page | Register Page |
+|------------|---------------|
+| ![Index](Screenshorts/index.png) | ![Register](Screenshorts/registerPage.png) |
+
+| User Dashboard | Admin Panel |
+|----------------|-------------|
+| ![User Dashboard](Screenshorts/userDashboard.png) | ![Admin Dashboard](Screenshorts/adminDashboard.png) |
+
 # Author
 
 ## Akash Kumar
